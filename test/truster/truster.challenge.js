@@ -23,6 +23,7 @@ describe('[Challenge] Truster', function () {
 
     it('Execution', async function () {
         /** CODE YOUR SOLUTION HERE */
+        
     });
 
     after(async function () {
